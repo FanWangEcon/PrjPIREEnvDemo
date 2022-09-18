@@ -1,0 +1,19 @@
+Package: PrjPIREEnvDemo
+Title: PIRE Environment and Demographics
+Version: 0.0.0.9000
+Authors@R: 
+    person("Fan", "Wang", , "fanwecon@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0003-2640-5420"))
+Description: Analyze the distribution of environment exposures across demographics groups
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
+URL: https://fanwangecon.github.io/PrjPIREEnvDemo/
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    dplyr,
+    tibble

@@ -1,0 +1,8 @@
+^\.github$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^PrjPIREEnvDemo\.Rproj$
+^\.Rproj\.user$
+^doc$
+^Meta$
